@@ -53,7 +53,7 @@
                 })
             }
             var o = s(8331);
-            let n = JSON.parse('{"WJ":"https://t.me/pnutjustice","kR":"https://x.com/JusticePnutFred","Nu":"https://dexscreener.com/solana/CHKzK9EbEDxaQx1aU3SrRixJPFsToURcug5uUG2ipump","xT":"#","Xn":"https://raydium.io/swap/?inputMint=sol&outputMint=CHKzK9EbEDxaQx1aU3SrRixJPFsToURcug5uUG2ipump","SC":"https://solscan.io/token/CHKzK9EbEDxaQx1aU3SrRixJPFsToURcug5uUG2ipump"}');
+            let n = JSON.parse('{"WJ":"https://t.me/pnutjustice","kR":"https://x.com/JusticePnutFred","Nu":"https://dexscreener.com/bsc/0xcomingsoontoken","xT":"#","Xn":"https://pancakeswap.finance/swap?ouputCurrency=0xcomingsoontoken","SC":"https://solscan.io/token/0xcomingsoontoken"}');
 
             function c() {
                 let [e, a] = (0, l.useState)(0), [s, c] = (0, l.useState)(!1), [h, d] = (0, l.useState)(!0), m = (0, l.useCallback)(() => {
@@ -184,34 +184,6 @@
                                                     className: "text-black",
                                                     children: "DexScreener"
                                                 })]
-                                            }), (0, t.jsxs)("a", {
-                                                href: n.xT,
-                                                className: "mobile-menu-item",
-                                                target: "_blank",
-                                                rel: "noopener noreferrer",
-                                                children: [(0, t.jsx)(r.default, {
-                                                    src: "/gecko.png",
-                                                    alt: "CoinGecko",
-                                                    className: "w-8 h-8",
-                                                    width: 32,
-                                                    height: 32
-                                                }), (0, t.jsx)("span", {
-                                                    className: "text-black",
-                                                    children: "CoinGecko"
-                                                })]
-                                            }), (0, t.jsx)("a", {
-                                                href: n.Xn,
-                                                className: "mobile-menu-item",
-                                                target: "_blank",
-                                                rel: "noopener noreferrer",
-                                                children: (0, t.jsx)(r.default, {
-                                                    src: "/hero/buy_now.png?2",
-                                                    alt: "Buy Now",
-                                                    className: "w-auto h-8",
-                                                    width: 160,
-                                                    height: 32,
-                                                    priority: !0
-                                                })
                                             })]
                                         })]
                                     })]
@@ -298,22 +270,6 @@
                                     height: 1800,
                                     priority: !0,
                                     draggable: "false"
-                                })
-                            }), (0, t.jsx)("div", {
-                                className: "absolute bottom-32 md:bottom-16 left-1/2 -translate-x-1/2 z-[2] w-full max-w-4xl px-4",
-                                children: (0, t.jsx)("a", {
-                                    href: n.SC,
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: (0, t.jsx)(r.default, {
-                                        src: "/hero/ca.png",
-                                        alt: "Contract Address",
-                                        className: "w-full h-auto cursor-pointer hover-effect",
-                                        width: 1200,
-                                        height: 160,
-                                        priority: !0,
-                                        draggable: "false"
-                                    })
                                 })
                             })]
                         }), (0, t.jsxs)("section", {
@@ -576,7 +532,7 @@
                                 }), (0, t.jsxs)("div", {
                                     className: "w-full max-w-7xl mx-auto px-4 md:-mt-12",
                                     children: [(0, t.jsx)(r.default, {
-                                        src: "/how_to_buy.png",
+                                        src: "/how_to_buy.webp",
                                         alt: "How to Buy",
                                         className: "w-full h-auto",
                                         width: 1920,
@@ -717,12 +673,12 @@
                             }), (0, t.jsx)("div", {
                                 className: "flex flex-col items-center justify-center relative z-10",
                                 children: (0, t.jsx)("a", {
-                                    href: n.xT,
+                                    href: "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoontoken",
                                     className: "hover-effect",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     children: (0, t.jsx)(r.default, {
-                                        src: "/gecko.png?2",
+                                        src: "/dextools-white.png?2",
                                         alt: "CoinGecko",
                                         width: 64,
                                         height: 64,
