@@ -53,7 +53,7 @@
                 })
             }
             var o = s(8331);
-            let n = JSON.parse('{"WJ":"https://t.me/justicepnut_bsc","kR":"https://x.com/justicepnut_bsc","Nu":"https://dexscreener.com/bsc/0xcomingsoontoken","xT":"#","Xn":"https://pancakeswap.finance/swap?ouputCurrency=0xcomingsoontoken","SC":"https://solscan.io/token/0xcomingsoontoken"}');
+            let n = JSON.parse('{"WJ":"https://t.me/justicepnut_bsc","kR":"https://x.com/justicepnut_bsc","Nu":"https://dexscreener.com/bsc/0x4d7bb7D2FEC9AdB2422B7E3Fe5ef68CAeb8ced12","xT":"#","Xn":"https://pancakeswap.finance/swap?ouputCurrency=0x4d7bb7D2FEC9AdB2422B7E3Fe5ef68CAeb8ced12","SC":"https://solscan.io/token/0x4d7bb7D2FEC9AdB2422B7E3Fe5ef68CAeb8ced12"}');
 
             function c() {
                 let [e, a] = (0, l.useState)(0), [s, c] = (0, l.useState)(!1), [h, d] = (0, l.useState)(!0), m = (0, l.useCallback)(() => {
@@ -673,7 +673,7 @@
                             }), (0, t.jsx)("div", {
                                 className: "flex flex-col items-center justify-center relative z-10",
                                 children: (0, t.jsx)("a", {
-                                    href: "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoontoken",
+                                    href: "https://dextools.io/app/en/bnb/pair-explorer/0x4d7bb7D2FEC9AdB2422B7E3Fe5ef68CAeb8ced12",
                                     className: "hover-effect",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
