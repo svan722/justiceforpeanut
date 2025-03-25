@@ -53,7 +53,7 @@
                 })
             }
             var o = s(8331);
-            let n = JSON.parse('{"WJ":"https://t.me/justicepnut_bsc","kR":"https://x.com/JusticePnutFred","Nu":"https://dexscreener.com/bsc/0xcomingsoontoken","xT":"#","Xn":"https://pancakeswap.finance/swap?ouputCurrency=0xcomingsoontoken","SC":"https://solscan.io/token/0xcomingsoontoken"}');
+            let n = JSON.parse('{"WJ":"https://t.me/justicepnut_bsc","kR":"https://x.com/justicepnut_bsc","Nu":"https://dexscreener.com/bsc/0xcomingsoontoken","xT":"#","Xn":"https://pancakeswap.finance/swap?ouputCurrency=0xcomingsoontoken","SC":"https://solscan.io/token/0xcomingsoontoken"}');
 
             function c() {
                 let [e, a] = (0, l.useState)(0), [s, c] = (0, l.useState)(!1), [h, d] = (0, l.useState)(!0), m = (0, l.useCallback)(() => {
